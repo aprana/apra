@@ -1,6 +1,6 @@
 package onlinetest1;
 
-public class CandidateButton {
+public class CandidateButton extends BallotUnit{
 	
 	int id;
 

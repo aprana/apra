@@ -2,9 +2,9 @@ package onlinetest1;
 
 public class Pannel {
 	
-	Candidate c= new Candidate();
-	CandidateLamp cl= new CandidateLamp();
-	BallotUnit b= new BallotUnit();
+	//Candidate c= new Candidate();
+	//CandidateLamp cl= new CandidateLamp();
+	//BallotUnit b= new BallotUnit();
 	
 	public void twodigit(){
 		
